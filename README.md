@@ -18,7 +18,7 @@ Some findings based on the above table:
 * Rural cities have the least number of rides, but the average fare per ride is almost $10 more than the average for urban cities.
 * Suburban cities have ~6x more drivers than in rural cities, and about 4.5x more revenue.
 
-![Weekly Fares by City Type Summary](Analysis/Weekly_Fares.PNG)
+![Weekly Fares by City Type Summary](Analysis/Weekly_Fares.png)
 
 ## Summary
 Based on my findings, I would suggest the following:
